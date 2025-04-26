@@ -7,11 +7,6 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Data / Model artifacts (if needed)
-*.h5
-*.csv
-*.json
-
 # MacOS system files
 .DS_Store
 
